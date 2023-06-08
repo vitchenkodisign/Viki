@@ -33,7 +33,7 @@ body {
   
   /* Стили для главного раздела */
   #hero {
-    background-image: url(hero-background.jpg);
+    background-image: url(https://github.com/vitchenkodisign/Viki/blob/main/hero-background.jpg?raw=true);
     background-size: cover;
     background-position: center;
     text-align: center;
